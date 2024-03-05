@@ -1,0 +1,1001 @@
+Vehicle_Brand,Vehicle_Model,Year_of_Manufacture,Mileage,Type_of_Service,Service_Date,scheduled,reliability
+BMW,3 Series,2015,4813,Cooling System Repairs,2021-11-03,1,1
+BMW,X3,2015,4669,Engine Diagnostics/Repair/Replacement,2016-10-31,0,1
+Nissan,Sentra,2012,6288,Cooling System Repairs,2013-04-20,0,0
+Toyota,Corolla,2011,6698,Brake System Repairs,2011-04-05,0,0
+Volkswagen,Tiguan,2013,5728,Transmission Diagnostics/Repair/Replacement,2022-07-25,1,1
+Audi,A6,2015,4679,Wear-and-Tear Replacements,2021-06-08,1,1
+Ford,Escape,2013,5923,Engine Diagnostics/Repair/Replacement,2015-03-13,1,0
+BMW,3 Series,2020,2046,Routine Maintenance Services,2023-04-18,0,0
+BMW,3 Series,2017,3611,Wear-and-Tear Replacements,2022-09-14,1,1
+Mercedes-Benz,C-Class,2019,2709,Wear-and-Tear Replacements,2023-01-12,0,0
+Nissan,Altima,2020,2316,Transmission Diagnostics/Repair/Replacement,2020-12-14,0,1
+Chevrolet,Traverse,2018,3299,Transmission Diagnostics/Repair/Replacement,2023-08-06,0,1
+Ford,Escape,2011,6897,Brake System Repairs,2014-05-04,0,0
+Mercedes-Benz,E-Class,2019,2665,Multiple Unscheduled Repairs,2023-03-23,0,1
+Nissan,Altima,2014,5281,Engine Diagnostics/Repair/Replacement,2014-12-02,0,1
+Nissan,Altima,2017,3952,Multiple Unscheduled Repairs,2019-06-07,0,0
+Chevrolet,Traverse,2017,3716,Multiple Unscheduled Repairs,2022-10-02,0,1
+BMW,3 Series,2020,2156,Cooling System Repairs,2023-02-20,0,0
+Volkswagen,Jetta,2016,4331,Multiple Unscheduled Repairs,2021-03-06,0,1
+Ford,Explorer,2015,4958,Brake System Repairs,2018-03-25,0,1
+Honda,Accord,2010,7351,Electrical System Repairs,2016-08-22,0,0
+Volkswagen,Passat,2015,4999,Multiple Unscheduled Repairs,2018-04-22,1,1
+Honda,CR-V,2019,2902,Suspension System Repairs,2023-12-12,1,0
+Mercedes-Benz,GLE,2019,2754,Electrical System Repairs,2023-08-15,0,0
+Honda,CR-V,2017,3910,Multiple Unscheduled Repairs,2018-05-07,0,0
+Mercedes-Benz,GLC,2011,6879,Multiple Unscheduled Repairs,2020-06-21,1,1
+Audi,Q5,2014,5333,Multiple Unscheduled Repairs,2015-06-12,0,1
+Nissan,Pathfinder,2016,4308,Brake System Repairs,2016-12-01,0,0
+Chevrolet,Traverse,2020,2492,Wear-and-Tear Replacements,2021-07-13,1,0
+Toyota,Rav4,2013,5982,Suspension System Repairs,2013-10-08,0,0
+Honda,Civic,2020,2323,Multiple Unscheduled Repairs,2023-09-01,0,1
+Volkswagen,Atlas,2014,5112,Wear-and-Tear Replacements,2020-07-19,1,0
+Hyundai,Santa Fe,2014,5338,Suspension System Repairs,2016-01-25,1,1
+Chevrolet,Silverado,2020,2078,Electrical System Repairs,2021-07-27,1,0
+Volkswagen,Tiguan,2011,6567,Brake System Repairs,2019-09-20,1,1
+Volkswagen,Atlas,2016,4119,Electrical System Repairs,2020-08-01,0,0
+Hyundai,Sonata,2016,4412,Transmission Diagnostics/Repair/Replacement,2017-05-29,0,0
+BMW,X5,2019,2939,Suspension System Repairs,2020-10-31,1,0
+Volkswagen,Atlas,2012,6136,Transmission Diagnostics/Repair/Replacement,2018-02-27,0,0
+Hyundai,Tucson,2013,5963,Wear-and-Tear Replacements,2015-11-25,0,0
+Nissan,Sentra,2014,5242,Electrical System Repairs,2018-11-14,1,1
+Nissan,Altima,2020,2321,Engine Diagnostics/Repair/Replacement,2023-04-02,1,0
+Hyundai,Santa Fe,2020,2477,Cooling System Repairs,2023-01-18,0,0
+Nissan,Rogue,2013,5662,Wear-and-Tear Replacements,2014-02-17,0,0
+Chevrolet,Traverse,2014,5058,Electrical System Repairs,2021-02-26,0,0
+Chevrolet,Malibu,2015,4907,Brake System Repairs,2016-11-18,1,0
+Honda,Civic,2014,5417,Suspension System Repairs,2018-06-09,0,0
+Honda,Accord,2013,5567,Multiple Unscheduled Repairs,2013-09-14,0,1
+Hyundai,Santa Fe,2015,4986,Routine Maintenance Services,2015-02-12,0,0
+Chevrolet,Equinox,2020,2038,Brake System Repairs,2023-10-19,0,0
+Chevrolet,Traverse,2018,3011,Wear-and-Tear Replacements,2019-03-03,0,0
+Hyundai,Sonata,2011,6823,Routine Maintenance Services,2021-11-14,1,1
+Ford,F-150,2019,2900,Routine Maintenance Services,2020-12-23,0,1
+Nissan,Rogue,2019,2962,Brake System Repairs,2019-03-04,0,1
+Nissan,Altima,2017,3703,Brake System Repairs,2021-04-21,0,1
+Chevrolet,Silverado,2015,4813,Transmission Diagnostics/Repair/Replacement,2020-07-20,1,0
+Chevrolet,Silverado,2015,4833,Wear-and-Tear Replacements,2020-10-09,0,1
+Ford,Escape,2012,6412,Engine Diagnostics/Repair/Replacement,2022-06-24,1,1
+Toyota,Corolla,2012,6370,Routine Maintenance Services,2019-07-02,1,1
+Hyundai,Sonata,2014,5129,Wear-and-Tear Replacements,2019-02-21,1,0
+Toyota,Camry,2014,5107,Wear-and-Tear Replacements,2016-10-09,0,0
+Audi,Q7,2017,3770,Suspension System Repairs,2021-09-03,0,1
+Nissan,Sentra,2013,5938,Suspension System Repairs,2018-06-10,0,1
+Hyundai,Elantra,2015,4582,Wear-and-Tear Replacements,2019-03-03,1,0
+Volkswagen,Passat,2020,2002,Multiple Unscheduled Repairs,2023-05-25,0,0
+Audi,A4,2013,5589,Engine Diagnostics/Repair/Replacement,2020-01-08,0,1
+Mercedes-Benz,E-Class,2013,5559,Electrical System Repairs,2017-03-11,0,1
+Nissan,Sentra,2017,3702,Engine Diagnostics/Repair/Replacement,2020-04-13,0,0
+Nissan,Rogue,2015,4594,Engine Diagnostics/Repair/Replacement,2016-04-04,0,1
+Nissan,Pathfinder,2018,3259,Engine Diagnostics/Repair/Replacement,2019-04-09,1,1
+Chevrolet,Equinox,2019,2548,Routine Maintenance Services,2023-09-15,1,0
+Volkswagen,Passat,2015,4538,Electrical System Repairs,2016-10-27,1,1
+Volkswagen,Jetta,2013,5852,Transmission Diagnostics/Repair/Replacement,2016-04-18,0,1
+Mercedes-Benz,E-Class,2015,4667,Routine Maintenance Services,2018-02-07,0,1
+Mercedes-Benz,GLE,2010,7287,Cooling System Repairs,2019-08-27,1,1
+Chevrolet,Traverse,2020,2404,Routine Maintenance Services,2022-09-11,1,0
+Ford,Escape,2014,5204,Wear-and-Tear Replacements,2017-03-17,0,1
+Toyota,Rav4,2018,3076,Wear-and-Tear Replacements,2019-04-21,1,0
+Nissan,Rogue,2011,6559,Multiple Unscheduled Repairs,2022-08-17,1,1
+Honda,Civic,2012,6375,Wear-and-Tear Replacements,2014-02-15,0,0
+BMW,X3,2020,2272,Suspension System Repairs,2021-02-09,0,0
+Honda,Pilot,2020,2436,Suspension System Repairs,2021-07-08,0,1
+BMW,X5,2019,2703,Suspension System Repairs,2019-05-18,0,0
+Toyota,Camry,2016,4208,Multiple Unscheduled Repairs,2019-01-02,1,1
+Toyota,Corolla,2017,3755,Suspension System Repairs,2020-12-18,0,0
+Chevrolet,Equinox,2014,5495,Suspension System Repairs,2021-05-19,0,0
+Nissan,Pathfinder,2014,5049,Multiple Unscheduled Repairs,2021-04-21,0,1
+Nissan,Pathfinder,2017,3509,Wear-and-Tear Replacements,2021-03-31,0,0
+Audi,A4,2014,5222,Routine Maintenance Services,2021-03-27,0,1
+Volkswagen,Tiguan,2016,4158,Cooling System Repairs,2020-06-27,0,0
+Toyota,Corolla,2010,7395,Engine Diagnostics/Repair/Replacement,2022-08-07,1,1
+Volkswagen,Tiguan,2018,3123,Suspension System Repairs,2023-12-19,1,0
+Volkswagen,Jetta,2013,5920,Wear-and-Tear Replacements,2022-01-03,1,0
+Honda,CR-V,2015,4606,Brake System Repairs,2023-03-22,0,0
+Hyundai,Sonata,2011,6556,Routine Maintenance Services,2022-01-21,0,0
+Honda,Civic,2016,4340,Cooling System Repairs,2021-08-04,0,1
+Volkswagen,Tiguan,2020,2375,Engine Diagnostics/Repair/Replacement,2022-05-24,0,0
+Mercedes-Benz,GLE,2015,4947,Routine Maintenance Services,2020-02-28,1,1
+BMW,5 Series,2012,6341,Wear-and-Tear Replacements,2017-03-17,1,1
+Nissan,Pathfinder,2017,3844,Wear-and-Tear Replacements,2018-02-15,0,0
+Ford,Focus,2010,7414,Electrical System Repairs,2020-07-30,1,0
+Honda,Civic,2010,7082,Brake System Repairs,2012-02-16,0,1
+Chevrolet,Silverado,2012,6427,Engine Diagnostics/Repair/Replacement,2014-05-02,1,1
+Toyota,Prius,2020,2318,Routine Maintenance Services,2021-04-27,0,0
+Honda,Civic,2014,5429,Multiple Unscheduled Repairs,2023-01-11,0,1
+Ford,Focus,2015,4564,Multiple Unscheduled Repairs,2016-12-24,0,1
+BMW,X3,2015,4830,Engine Diagnostics/Repair/Replacement,2022-08-25,1,0
+BMW,5 Series,2016,4204,Wear-and-Tear Replacements,2021-07-31,0,0
+Toyota,Prius,2010,7032,Multiple Unscheduled Repairs,2018-02-02,1,0
+Chevrolet,Silverado,2012,6239,Wear-and-Tear Replacements,2023-03-23,0,0
+Nissan,Pathfinder,2015,4877,Multiple Unscheduled Repairs,2020-06-03,0,1
+Toyota,Camry,2014,5370,Routine Maintenance Services,2017-04-03,1,0
+Toyota,Camry,2019,2748,Cooling System Repairs,2020-08-28,1,0
+Honda,Civic,2017,3641,Suspension System Repairs,2021-02-23,0,0
+Toyota,Corolla,2013,5881,Routine Maintenance Services,2018-06-10,0,0
+Hyundai,Elantra,2016,4002,Multiple Unscheduled Repairs,2021-01-19,1,0
+Mercedes-Benz,GLE,2013,5720,Brake System Repairs,2017-02-03,0,1
+Toyota,Prius,2019,2666,Routine Maintenance Services,2020-12-02,1,0
+Honda,CR-V,2010,7495,Routine Maintenance Services,2016-01-01,0,1
+BMW,X3,2013,5877,Transmission Diagnostics/Repair/Replacement,2023-07-12,0,0
+Toyota,Prius,2018,3482,Engine Diagnostics/Repair/Replacement,2018-03-08,0,0
+Nissan,Altima,2013,5752,Multiple Unscheduled Repairs,2017-11-21,0,1
+Toyota,Rav4,2010,7385,Wear-and-Tear Replacements,2017-09-09,1,1
+BMW,3 Series,2017,3528,Electrical System Repairs,2020-09-27,1,1
+Hyundai,Santa Fe,2014,5054,Electrical System Repairs,2015-11-10,1,0
+Nissan,Altima,2018,3162,Electrical System Repairs,2018-08-26,0,0
+Ford,Escape,2011,6564,Multiple Unscheduled Repairs,2023-12-28,1,0
+Hyundai,Sonata,2014,5160,Transmission Diagnostics/Repair/Replacement,2019-09-26,0,1
+BMW,5 Series,2017,3730,Multiple Unscheduled Repairs,2020-11-03,1,0
+Audi,Q7,2017,3995,Brake System Repairs,2023-02-20,0,1
+Ford,Escape,2015,4726,Suspension System Repairs,2017-08-14,0,1
+Toyota,Rav4,2010,7419,Transmission Diagnostics/Repair/Replacement,2018-05-23,1,1
+Ford,Escape,2020,2156,Brake System Repairs,2020-10-30,1,1
+Honda,CR-V,2014,5122,Suspension System Repairs,2022-08-02,0,0
+Ford,F-150,2013,5685,Wear-and-Tear Replacements,2022-10-29,0,1
+Chevrolet,Malibu,2016,4097,Electrical System Repairs,2021-08-31,0,1
+BMW,3 Series,2016,4055,Routine Maintenance Services,2018-10-18,1,1
+BMW,X5,2014,5026,Multiple Unscheduled Repairs,2017-01-24,1,0
+Volkswagen,Jetta,2015,4801,Brake System Repairs,2015-08-09,1,1
+Nissan,Pathfinder,2015,4844,Suspension System Repairs,2017-07-08,1,0
+Audi,A6,2020,2374,Electrical System Repairs,2021-09-11,1,0
+BMW,3 Series,2010,7498,Engine Diagnostics/Repair/Replacement,2022-09-22,1,1
+BMW,X3,2011,6809,Cooling System Repairs,2022-06-17,1,1
+Chevrolet,Malibu,2015,4795,Brake System Repairs,2019-10-06,1,0
+Audi,A4,2020,2087,Suspension System Repairs,2021-03-11,1,0
+Mercedes-Benz,E-Class,2012,6206,Engine Diagnostics/Repair/Replacement,2019-05-01,0,1
+Chevrolet,Malibu,2013,5982,Suspension System Repairs,2018-12-09,1,0
+Honda,Civic,2018,3152,Multiple Unscheduled Repairs,2019-05-12,0,1
+Toyota,Corolla,2012,6207,Multiple Unscheduled Repairs,2016-08-10,0,0
+Toyota,Rav4,2018,3042,Engine Diagnostics/Repair/Replacement,2022-06-24,0,1
+BMW,X3,2019,2831,Brake System Repairs,2019-06-15,1,0
+Hyundai,Santa Fe,2020,2476,Cooling System Repairs,2020-10-05,0,0
+Ford,F-150,2013,5963,Wear-and-Tear Replacements,2019-07-05,1,0
+Hyundai,Santa Fe,2017,3605,Electrical System Repairs,2021-07-24,1,0
+BMW,X3,2011,6863,Routine Maintenance Services,2015-11-14,0,0
+Toyota,Camry,2013,5674,Brake System Repairs,2017-05-06,1,1
+Nissan,Altima,2013,5939,Wear-and-Tear Replacements,2015-06-06,0,0
+Honda,CR-V,2014,5080,Electrical System Repairs,2016-05-30,0,0
+Ford,Explorer,2010,7476,Cooling System Repairs,2020-08-20,0,0
+Honda,Accord,2010,7020,Suspension System Repairs,2013-11-21,0,0
+Toyota,Prius,2014,5252,Transmission Diagnostics/Repair/Replacement,2021-06-25,1,0
+Volkswagen,Passat,2016,4170,Cooling System Repairs,2019-11-22,0,1
+Audi,Q5,2014,5311,Suspension System Repairs,2020-07-11,0,0
+Honda,Civic,2011,6926,Wear-and-Tear Replacements,2016-06-10,1,1
+Audi,Q7,2014,5177,Cooling System Repairs,2023-09-24,0,0
+Hyundai,Sonata,2017,3722,Wear-and-Tear Replacements,2022-08-27,1,1
+Toyota,Prius,2010,7015,Routine Maintenance Services,2021-04-14,1,0
+Nissan,Sentra,2020,2164,Wear-and-Tear Replacements,2020-03-27,0,0
+Volkswagen,Jetta,2020,2297,Electrical System Repairs,2023-01-26,0,1
+Ford,Explorer,2020,2151,Suspension System Repairs,2020-10-04,0,1
+BMW,X3,2011,6770,Multiple Unscheduled Repairs,2017-11-22,1,0
+BMW,X5,2019,2688,Wear-and-Tear Replacements,2021-12-17,1,0
+Mercedes-Benz,E-Class,2013,5978,Wear-and-Tear Replacements,2022-01-06,0,1
+Toyota,Prius,2015,4851,Engine Diagnostics/Repair/Replacement,2022-05-05,0,0
+Hyundai,Santa Fe,2015,4701,Cooling System Repairs,2015-06-25,0,0
+BMW,X5,2011,6991,Brake System Repairs,2022-01-08,0,1
+Audi,A6,2012,6084,Multiple Unscheduled Repairs,2014-04-15,1,0
+Nissan,Sentra,2012,6289,Multiple Unscheduled Repairs,2015-07-05,0,0
+Toyota,Corolla,2020,2005,Wear-and-Tear Replacements,2021-05-21,0,0
+Honda,Accord,2014,5409,Cooling System Repairs,2019-05-13,0,1
+Nissan,Sentra,2010,7493,Multiple Unscheduled Repairs,2014-07-29,0,1
+Hyundai,Elantra,2012,6367,Multiple Unscheduled Repairs,2015-09-18,1,0
+Chevrolet,Silverado,2016,4050,Transmission Diagnostics/Repair/Replacement,2019-08-11,1,1
+Audi,A6,2012,6015,Cooling System Repairs,2013-03-15,0,0
+Chevrolet,Equinox,2010,7299,Cooling System Repairs,2022-09-02,1,1
+Honda,Accord,2016,4489,Suspension System Repairs,2023-11-19,1,0
+Chevrolet,Silverado,2010,7102,Cooling System Repairs,2011-04-30,0,0
+Volkswagen,Tiguan,2015,4778,Brake System Repairs,2016-03-02,1,1
+Volkswagen,Jetta,2012,6155,Suspension System Repairs,2014-12-15,1,0
+Mercedes-Benz,GLC,2012,6416,Multiple Unscheduled Repairs,2013-03-29,1,0
+Chevrolet,Equinox,2016,4285,Brake System Repairs,2021-08-29,0,0
+Volkswagen,Tiguan,2016,4222,Electrical System Repairs,2022-01-28,0,1
+Honda,Accord,2017,3965,Engine Diagnostics/Repair/Replacement,2022-01-10,1,0
+Toyota,Prius,2012,6409,Routine Maintenance Services,2019-08-22,1,0
+Mercedes-Benz,C-Class,2012,6379,Multiple Unscheduled Repairs,2022-04-05,1,1
+Toyota,Prius,2020,2428,Brake System Repairs,2020-11-24,1,0
+Honda,CR-V,2018,3032,Transmission Diagnostics/Repair/Replacement,2022-02-13,0,1
+Audi,Q5,2019,2598,Routine Maintenance Services,2022-07-05,1,0
+Hyundai,Sonata,2012,6332,Transmission Diagnostics/Repair/Replacement,2016-10-21,0,0
+Nissan,Rogue,2017,3812,Routine Maintenance Services,2018-08-14,0,1
+Volkswagen,Tiguan,2019,2995,Brake System Repairs,2022-12-17,1,0
+Nissan,Sentra,2019,2631,Electrical System Repairs,2023-01-31,1,1
+Honda,Civic,2017,3742,Wear-and-Tear Replacements,2022-10-04,1,1
+Volkswagen,Atlas,2014,5114,Wear-and-Tear Replacements,2017-09-25,0,0
+Audi,A4,2018,3216,Cooling System Repairs,2022-12-15,1,1
+Nissan,Sentra,2019,2701,Brake System Repairs,2021-04-10,1,1
+Ford,Explorer,2014,5416,Multiple Unscheduled Repairs,2023-11-19,1,0
+Audi,Q7,2018,3097,Multiple Unscheduled Repairs,2018-09-05,0,1
+Mercedes-Benz,GLC,2014,5421,Engine Diagnostics/Repair/Replacement,2019-07-23,0,0
+Nissan,Rogue,2016,4329,Transmission Diagnostics/Repair/Replacement,2016-11-11,0,1
+Chevrolet,Equinox,2015,4799,Engine Diagnostics/Repair/Replacement,2019-06-19,0,1
+Audi,Q7,2015,4724,Cooling System Repairs,2018-07-24,1,0
+Volkswagen,Passat,2010,7124,Wear-and-Tear Replacements,2013-11-13,0,1
+Honda,Accord,2011,6953,Suspension System Repairs,2013-07-05,1,1
+Toyota,Rav4,2014,5310,Multiple Unscheduled Repairs,2014-05-31,1,0
+Chevrolet,Traverse,2011,6723,Routine Maintenance Services,2017-07-02,0,0
+Toyota,Camry,2020,2143,Brake System Repairs,2022-07-09,0,0
+Nissan,Pathfinder,2010,7267,Cooling System Repairs,2014-04-28,0,1
+Mercedes-Benz,GLE,2020,2038,Multiple Unscheduled Repairs,2020-01-10,0,0
+Nissan,Altima,2020,2380,Routine Maintenance Services,2022-08-24,1,0
+Ford,Explorer,2019,2582,Brake System Repairs,2020-07-07,0,1
+BMW,5 Series,2017,3993,Wear-and-Tear Replacements,2021-03-29,0,0
+BMW,3 Series,2018,3222,Multiple Unscheduled Repairs,2023-03-19,0,1
+Mercedes-Benz,C-Class,2015,4619,Electrical System Repairs,2017-05-03,0,0
+Chevrolet,Silverado,2012,6250,Cooling System Repairs,2015-08-02,1,0
+Audi,Q7,2016,4406,Routine Maintenance Services,2020-01-21,1,0
+Nissan,Altima,2020,2292,Routine Maintenance Services,2021-07-01,1,0
+Nissan,Rogue,2017,3740,Electrical System Repairs,2019-06-09,1,1
+BMW,5 Series,2013,5667,Transmission Diagnostics/Repair/Replacement,2018-12-14,0,1
+Volkswagen,Atlas,2010,7444,Engine Diagnostics/Repair/Replacement,2014-02-15,1,1
+Mercedes-Benz,E-Class,2012,6020,Electrical System Repairs,2019-11-14,1,0
+Volkswagen,Passat,2019,2602,Wear-and-Tear Replacements,2019-12-11,1,1
+Toyota,Corolla,2015,4666,Engine Diagnostics/Repair/Replacement,2018-07-01,0,0
+Hyundai,Tucson,2019,2571,Engine Diagnostics/Repair/Replacement,2023-05-30,0,0
+Nissan,Rogue,2011,6737,Electrical System Repairs,2016-03-27,1,0
+Nissan,Rogue,2014,5449,Brake System Repairs,2020-05-07,1,1
+Hyundai,Elantra,2019,2511,Electrical System Repairs,2020-06-25,0,0
+Ford,F-150,2012,6440,Engine Diagnostics/Repair/Replacement,2015-10-07,0,1
+Honda,Pilot,2011,6683,Transmission Diagnostics/Repair/Replacement,2018-11-29,1,1
+Audi,Q5,2016,4452,Brake System Repairs,2016-04-20,1,0
+Nissan,Rogue,2017,3665,Engine Diagnostics/Repair/Replacement,2017-01-22,1,1
+Toyota,Rav4,2017,3848,Multiple Unscheduled Repairs,2023-12-11,1,1
+Mercedes-Benz,GLE,2020,2129,Cooling System Repairs,2022-05-28,0,0
+Volkswagen,Atlas,2013,5781,Electrical System Repairs,2017-09-18,0,0
+Hyundai,Tucson,2010,7079,Suspension System Repairs,2011-09-01,0,0
+Mercedes-Benz,C-Class,2010,7276,Transmission Diagnostics/Repair/Replacement,2010-10-27,0,1
+Nissan,Sentra,2013,5585,Suspension System Repairs,2022-04-22,1,0
+Honda,Civic,2019,2981,Transmission Diagnostics/Repair/Replacement,2019-12-29,1,1
+Toyota,Rav4,2014,5206,Routine Maintenance Services,2020-10-28,1,0
+Mercedes-Benz,GLC,2013,5727,Electrical System Repairs,2016-07-12,0,1
+Volkswagen,Jetta,2012,6176,Brake System Repairs,2014-10-16,1,1
+Ford,Focus,2019,2644,Cooling System Repairs,2023-06-23,1,1
+Honda,Civic,2012,6194,Cooling System Repairs,2023-09-24,1,0
+Mercedes-Benz,GLE,2015,4916,Multiple Unscheduled Repairs,2022-07-31,1,0
+Honda,Accord,2017,3801,Suspension System Repairs,2017-06-13,1,1
+Ford,Escape,2018,3357,Multiple Unscheduled Repairs,2018-01-01,0,0
+BMW,X3,2014,5262,Suspension System Repairs,2018-09-30,1,1
+Nissan,Altima,2011,6726,Multiple Unscheduled Repairs,2011-02-02,0,0
+Toyota,Prius,2018,3119,Wear-and-Tear Replacements,2019-09-02,1,0
+Nissan,Pathfinder,2018,3340,Electrical System Repairs,2020-05-19,0,1
+Chevrolet,Silverado,2012,6406,Electrical System Repairs,2012-05-02,1,0
+Audi,Q7,2015,4854,Routine Maintenance Services,2016-12-29,0,1
+Hyundai,Sonata,2011,6634,Transmission Diagnostics/Repair/Replacement,2013-06-21,0,0
+Ford,F-150,2014,5313,Cooling System Repairs,2020-11-08,0,1
+Volkswagen,Atlas,2015,4691,Engine Diagnostics/Repair/Replacement,2021-12-31,1,0
+Ford,Explorer,2018,3231,Transmission Diagnostics/Repair/Replacement,2020-01-02,1,0
+Chevrolet,Malibu,2012,6397,Electrical System Repairs,2014-04-12,0,1
+Honda,Pilot,2018,3162,Wear-and-Tear Replacements,2022-06-16,0,0
+Audi,A6,2018,3044,Brake System Repairs,2018-06-28,1,1
+Hyundai,Santa Fe,2014,5252,Transmission Diagnostics/Repair/Replacement,2022-02-12,1,1
+Chevrolet,Equinox,2011,6536,Engine Diagnostics/Repair/Replacement,2011-12-20,0,0
+BMW,X5,2010,7473,Cooling System Repairs,2020-07-16,1,1
+Ford,Focus,2017,3571,Suspension System Repairs,2021-07-18,1,1
+Ford,Focus,2012,6176,Transmission Diagnostics/Repair/Replacement,2014-08-09,1,0
+Ford,Escape,2018,3329,Wear-and-Tear Replacements,2020-11-17,1,1
+Chevrolet,Equinox,2012,6451,Routine Maintenance Services,2023-05-18,0,0
+Nissan,Sentra,2017,3673,Electrical System Repairs,2020-05-17,0,0
+Mercedes-Benz,GLE,2014,5491,Transmission Diagnostics/Repair/Replacement,2015-05-31,0,0
+Honda,Pilot,2014,5280,Multiple Unscheduled Repairs,2016-07-23,1,0
+Toyota,Rav4,2011,6504,Engine Diagnostics/Repair/Replacement,2012-04-18,1,1
+Hyundai,Santa Fe,2013,5664,Routine Maintenance Services,2016-08-16,1,1
+Mercedes-Benz,C-Class,2018,3429,Engine Diagnostics/Repair/Replacement,2023-07-07,0,1
+BMW,5 Series,2011,6783,Brake System Repairs,2022-05-13,1,0
+Ford,Explorer,2011,6506,Suspension System Repairs,2013-08-26,1,1
+BMW,X3,2010,7212,Transmission Diagnostics/Repair/Replacement,2015-12-28,1,1
+Ford,Explorer,2018,3153,Cooling System Repairs,2021-10-15,0,1
+Nissan,Rogue,2015,4685,Wear-and-Tear Replacements,2018-03-22,1,1
+Mercedes-Benz,GLC,2019,2924,Brake System Repairs,2020-10-05,1,0
+Honda,CR-V,2020,2197,Transmission Diagnostics/Repair/Replacement,2021-11-18,0,1
+Mercedes-Benz,C-Class,2013,5513,Suspension System Repairs,2022-12-10,1,1
+Volkswagen,Jetta,2010,7397,Cooling System Repairs,2017-05-20,0,1
+Audi,A6,2020,2209,Suspension System Repairs,2022-07-25,0,1
+BMW,X3,2019,2682,Cooling System Repairs,2020-02-16,1,0
+Audi,Q7,2011,6681,Electrical System Repairs,2015-07-10,1,1
+Hyundai,Tucson,2016,4048,Engine Diagnostics/Repair/Replacement,2023-11-11,0,1
+Audi,A4,2018,3244,Transmission Diagnostics/Repair/Replacement,2019-07-22,0,1
+Toyota,Corolla,2015,4851,Engine Diagnostics/Repair/Replacement,2023-05-24,0,0
+Mercedes-Benz,GLC,2016,4311,Cooling System Repairs,2022-10-22,1,1
+Hyundai,Sonata,2017,3977,Wear-and-Tear Replacements,2020-01-11,0,1
+Hyundai,Sonata,2014,5406,Brake System Repairs,2018-06-23,0,0
+Toyota,Rav4,2014,5103,Electrical System Repairs,2021-06-04,0,1
+Audi,A6,2016,4115,Routine Maintenance Services,2021-12-12,0,1
+Mercedes-Benz,E-Class,2014,5413,Electrical System Repairs,2022-11-17,1,1
+Ford,Focus,2020,2451,Wear-and-Tear Replacements,2023-05-15,0,0
+Audi,Q7,2019,2722,Transmission Diagnostics/Repair/Replacement,2023-10-27,0,0
+Volkswagen,Jetta,2013,5761,Engine Diagnostics/Repair/Replacement,2017-01-25,1,1
+Honda,Civic,2013,5595,Multiple Unscheduled Repairs,2014-11-19,1,1
+Hyundai,Elantra,2018,3217,Engine Diagnostics/Repair/Replacement,2019-04-13,0,1
+Honda,Accord,2010,7051,Brake System Repairs,2011-08-05,1,0
+Toyota,Rav4,2020,2139,Wear-and-Tear Replacements,2022-10-11,0,1
+Ford,Explorer,2019,2930,Transmission Diagnostics/Repair/Replacement,2022-10-22,0,1
+Chevrolet,Traverse,2010,7201,Suspension System Repairs,2010-10-26,0,1
+Nissan,Pathfinder,2013,5585,Multiple Unscheduled Repairs,2015-01-27,1,0
+Volkswagen,Passat,2010,7387,Engine Diagnostics/Repair/Replacement,2022-03-24,0,1
+Mercedes-Benz,GLE,2011,6600,Routine Maintenance Services,2023-10-09,1,1
+Audi,A4,2015,4892,Brake System Repairs,2020-03-15,0,1
+Honda,Accord,2018,3233,Transmission Diagnostics/Repair/Replacement,2020-01-07,1,1
+Volkswagen,Jetta,2020,2140,Wear-and-Tear Replacements,2022-02-22,0,0
+Honda,CR-V,2015,4964,Routine Maintenance Services,2016-10-12,0,1
+Chevrolet,Equinox,2016,4189,Brake System Repairs,2022-12-28,1,0
+Honda,Pilot,2019,2843,Multiple Unscheduled Repairs,2021-06-09,0,1
+Toyota,Rav4,2018,3155,Transmission Diagnostics/Repair/Replacement,2021-12-19,1,0
+Toyota,Prius,2018,3139,Routine Maintenance Services,2019-06-04,0,1
+Ford,Focus,2016,4236,Engine Diagnostics/Repair/Replacement,2018-12-21,0,0
+Chevrolet,Silverado,2019,2716,Brake System Repairs,2020-11-18,1,1
+Ford,Explorer,2019,2600,Brake System Repairs,2021-08-01,1,1
+BMW,3 Series,2012,6029,Routine Maintenance Services,2019-08-26,0,1
+Honda,Civic,2020,2224,Suspension System Repairs,2022-11-23,1,0
+Volkswagen,Tiguan,2019,2532,Suspension System Repairs,2019-09-07,0,0
+Hyundai,Sonata,2020,2406,Electrical System Repairs,2023-04-09,0,1
+Honda,Pilot,2017,3626,Multiple Unscheduled Repairs,2019-05-20,1,0
+Mercedes-Benz,GLC,2018,3036,Transmission Diagnostics/Repair/Replacement,2020-09-12,1,1
+Honda,Pilot,2016,4325,Engine Diagnostics/Repair/Replacement,2018-09-18,0,1
+Hyundai,Sonata,2014,5330,Cooling System Repairs,2023-07-05,1,1
+Hyundai,Elantra,2016,4396,Cooling System Repairs,2019-10-12,0,1
+Ford,Explorer,2019,2722,Brake System Repairs,2019-04-20,1,1
+Chevrolet,Traverse,2013,5661,Transmission Diagnostics/Repair/Replacement,2023-02-03,1,1
+Chevrolet,Traverse,2019,2913,Brake System Repairs,2019-10-01,0,1
+Mercedes-Benz,GLC,2014,5088,Electrical System Repairs,2018-03-24,0,0
+Ford,F-150,2019,2868,Engine Diagnostics/Repair/Replacement,2022-10-07,0,0
+Chevrolet,Silverado,2010,7206,Transmission Diagnostics/Repair/Replacement,2017-10-12,1,1
+Nissan,Altima,2020,2122,Suspension System Repairs,2021-08-25,0,1
+Honda,Pilot,2019,2745,Suspension System Repairs,2022-02-28,0,0
+BMW,X3,2017,3751,Routine Maintenance Services,2020-08-22,1,1
+Mercedes-Benz,E-Class,2015,4771,Engine Diagnostics/Repair/Replacement,2019-02-07,1,1
+Mercedes-Benz,GLC,2013,5870,Transmission Diagnostics/Repair/Replacement,2015-12-09,1,1
+Toyota,Corolla,2020,2277,Multiple Unscheduled Repairs,2023-08-01,1,0
+Hyundai,Tucson,2016,4398,Cooling System Repairs,2016-10-22,0,1
+BMW,X3,2017,3625,Wear-and-Tear Replacements,2020-04-17,1,0
+Hyundai,Elantra,2018,3151,Engine Diagnostics/Repair/Replacement,2019-02-16,1,0
+Mercedes-Benz,GLC,2010,7138,Suspension System Repairs,2021-07-05,1,0
+Ford,Explorer,2010,7361,Cooling System Repairs,2016-07-29,1,1
+Chevrolet,Traverse,2013,5751,Suspension System Repairs,2018-12-20,1,0
+BMW,5 Series,2017,3653,Brake System Repairs,2023-02-17,1,1
+Volkswagen,Atlas,2015,4678,Wear-and-Tear Replacements,2018-09-08,0,0
+Toyota,Camry,2013,5858,Engine Diagnostics/Repair/Replacement,2014-03-26,1,1
+Audi,A4,2011,6847,Wear-and-Tear Replacements,2017-01-18,0,0
+Toyota,Camry,2012,6012,Engine Diagnostics/Repair/Replacement,2013-04-06,1,1
+Ford,Explorer,2013,5776,Wear-and-Tear Replacements,2018-03-11,1,1
+Mercedes-Benz,GLC,2010,7065,Cooling System Repairs,2015-10-07,0,1
+Nissan,Pathfinder,2010,7087,Electrical System Repairs,2020-10-10,0,1
+BMW,X5,2017,3667,Transmission Diagnostics/Repair/Replacement,2017-12-07,1,1
+Toyota,Rav4,2018,3059,Wear-and-Tear Replacements,2019-02-12,0,1
+Ford,Escape,2013,5967,Routine Maintenance Services,2014-07-09,1,0
+Toyota,Rav4,2015,4745,Brake System Repairs,2016-01-21,0,1
+Chevrolet,Traverse,2016,4041,Cooling System Repairs,2021-08-21,0,1
+Ford,Explorer,2016,4248,Brake System Repairs,2019-08-18,0,1
+Volkswagen,Jetta,2011,6774,Routine Maintenance Services,2012-07-17,0,1
+Nissan,Rogue,2015,4946,Routine Maintenance Services,2018-12-14,0,1
+Toyota,Rav4,2011,6904,Transmission Diagnostics/Repair/Replacement,2021-02-05,1,1
+Volkswagen,Tiguan,2014,5262,Transmission Diagnostics/Repair/Replacement,2014-07-07,0,1
+Hyundai,Tucson,2013,5973,Transmission Diagnostics/Repair/Replacement,2022-08-05,0,0
+Chevrolet,Traverse,2013,5860,Wear-and-Tear Replacements,2023-08-11,0,1
+Hyundai,Tucson,2011,6806,Cooling System Repairs,2016-09-17,0,0
+Audi,Q5,2015,4923,Engine Diagnostics/Repair/Replacement,2020-11-12,1,0
+Chevrolet,Silverado,2017,3590,Transmission Diagnostics/Repair/Replacement,2017-04-12,1,0
+Toyota,Prius,2018,3223,Brake System Repairs,2020-06-21,1,0
+Chevrolet,Silverado,2017,3855,Wear-and-Tear Replacements,2018-05-18,1,0
+Ford,Escape,2017,3921,Suspension System Repairs,2019-03-23,0,0
+Chevrolet,Silverado,2014,5409,Wear-and-Tear Replacements,2017-10-20,1,0
+Hyundai,Elantra,2015,4506,Electrical System Repairs,2022-12-27,1,1
+Toyota,Camry,2019,2542,Wear-and-Tear Replacements,2021-09-04,0,1
+BMW,X3,2016,4344,Brake System Repairs,2023-02-10,0,1
+Nissan,Rogue,2018,3451,Transmission Diagnostics/Repair/Replacement,2021-04-21,1,0
+Nissan,Pathfinder,2010,7204,Cooling System Repairs,2018-04-06,1,0
+Hyundai,Santa Fe,2020,2492,Routine Maintenance Services,2021-04-27,0,0
+Ford,Escape,2017,3538,Brake System Repairs,2019-11-29,0,0
+Chevrolet,Malibu,2016,4123,Cooling System Repairs,2016-05-12,1,0
+Toyota,Rav4,2019,2882,Wear-and-Tear Replacements,2020-04-08,0,1
+Ford,F-150,2013,5595,Transmission Diagnostics/Repair/Replacement,2013-01-30,1,1
+Audi,A4,2015,4515,Cooling System Repairs,2017-08-25,0,0
+Volkswagen,Jetta,2013,5759,Engine Diagnostics/Repair/Replacement,2021-08-10,0,1
+Chevrolet,Malibu,2012,6261,Engine Diagnostics/Repair/Replacement,2015-12-07,1,1
+Audi,A6,2012,6208,Routine Maintenance Services,2012-02-15,1,0
+Hyundai,Tucson,2018,3391,Transmission Diagnostics/Repair/Replacement,2018-07-25,1,0
+Ford,Explorer,2014,5374,Transmission Diagnostics/Repair/Replacement,2016-07-07,1,0
+Volkswagen,Tiguan,2020,2338,Multiple Unscheduled Repairs,2021-10-23,1,1
+Mercedes-Benz,C-Class,2011,6651,Routine Maintenance Services,2021-03-26,0,1
+Volkswagen,Tiguan,2019,2823,Wear-and-Tear Replacements,2019-05-30,0,1
+Nissan,Pathfinder,2018,3198,Transmission Diagnostics/Repair/Replacement,2022-12-09,0,1
+Volkswagen,Atlas,2014,5059,Routine Maintenance Services,2015-01-19,1,0
+Volkswagen,Jetta,2015,4696,Brake System Repairs,2021-12-21,1,1
+Audi,Q5,2014,5398,Suspension System Repairs,2023-03-30,1,0
+Ford,F-150,2013,5789,Cooling System Repairs,2019-11-10,1,1
+Chevrolet,Silverado,2017,3823,Suspension System Repairs,2021-03-04,1,0
+Hyundai,Tucson,2011,6853,Transmission Diagnostics/Repair/Replacement,2022-02-27,0,0
+BMW,3 Series,2015,4587,Suspension System Repairs,2016-07-23,1,1
+Audi,Q7,2017,3624,Engine Diagnostics/Repair/Replacement,2018-11-22,0,0
+Hyundai,Sonata,2017,3790,Cooling System Repairs,2019-05-05,0,1
+Chevrolet,Malibu,2013,5978,Brake System Repairs,2016-11-27,0,1
+Hyundai,Elantra,2019,2966,Brake System Repairs,2022-12-20,0,0
+Nissan,Sentra,2018,3265,Electrical System Repairs,2020-11-09,0,1
+Honda,Civic,2015,4736,Engine Diagnostics/Repair/Replacement,2022-07-13,0,1
+Chevrolet,Silverado,2011,6772,Routine Maintenance Services,2023-09-27,1,0
+Mercedes-Benz,GLE,2015,4952,Suspension System Repairs,2018-08-20,0,0
+Audi,A6,2012,6444,Engine Diagnostics/Repair/Replacement,2018-06-15,0,0
+Nissan,Sentra,2017,3524,Brake System Repairs,2023-07-01,1,0
+Honda,Accord,2015,4770,Wear-and-Tear Replacements,2019-12-21,0,0
+BMW,X5,2017,3883,Suspension System Repairs,2017-03-01,1,1
+Toyota,Prius,2014,5071,Routine Maintenance Services,2016-01-17,0,0
+Nissan,Pathfinder,2012,6438,Wear-and-Tear Replacements,2015-04-08,1,1
+Audi,A6,2010,7474,Electrical System Repairs,2016-08-10,1,0
+Ford,Escape,2013,5659,Wear-and-Tear Replacements,2015-07-03,1,1
+Hyundai,Sonata,2012,6121,Cooling System Repairs,2012-11-10,1,1
+Nissan,Sentra,2015,4931,Wear-and-Tear Replacements,2016-09-29,1,0
+Chevrolet,Equinox,2020,2340,Engine Diagnostics/Repair/Replacement,2023-11-20,1,0
+Audi,Q5,2019,2792,Brake System Repairs,2022-02-24,0,1
+Honda,Accord,2018,3143,Transmission Diagnostics/Repair/Replacement,2021-06-24,0,1
+Volkswagen,Passat,2020,2160,Suspension System Repairs,2023-08-20,0,1
+Mercedes-Benz,GLC,2019,2866,Multiple Unscheduled Repairs,2021-06-29,0,1
+Mercedes-Benz,GLC,2011,6685,Routine Maintenance Services,2015-09-19,0,0
+Nissan,Sentra,2018,3037,Wear-and-Tear Replacements,2019-06-16,1,1
+Nissan,Sentra,2012,6122,Wear-and-Tear Replacements,2019-11-29,0,0
+Honda,Accord,2019,2577,Engine Diagnostics/Repair/Replacement,2023-01-06,0,0
+Mercedes-Benz,GLC,2017,3795,Routine Maintenance Services,2022-12-06,1,0
+Volkswagen,Jetta,2015,4990,Electrical System Repairs,2023-05-19,0,0
+Volkswagen,Atlas,2012,6039,Suspension System Repairs,2019-02-07,0,1
+Nissan,Rogue,2020,2223,Routine Maintenance Services,2023-03-12,1,0
+Chevrolet,Traverse,2010,7007,Wear-and-Tear Replacements,2012-01-30,1,0
+Volkswagen,Passat,2013,5961,Cooling System Repairs,2019-04-17,0,0
+Volkswagen,Tiguan,2011,6804,Engine Diagnostics/Repair/Replacement,2011-08-09,0,1
+Honda,Pilot,2012,6136,Transmission Diagnostics/Repair/Replacement,2020-04-01,0,1
+Volkswagen,Passat,2020,2163,Electrical System Repairs,2023-06-25,0,1
+Mercedes-Benz,E-Class,2017,3978,Engine Diagnostics/Repair/Replacement,2022-04-10,0,0
+Ford,F-150,2010,7213,Transmission Diagnostics/Repair/Replacement,2019-05-16,0,1
+Mercedes-Benz,GLE,2015,4718,Transmission Diagnostics/Repair/Replacement,2020-05-11,0,0
+Nissan,Pathfinder,2019,2569,Routine Maintenance Services,2020-03-03,0,1
+Mercedes-Benz,E-Class,2010,7181,Brake System Repairs,2018-09-20,0,1
+Honda,Pilot,2020,2178,Electrical System Repairs,2020-12-03,0,0
+Audi,A6,2011,6731,Electrical System Repairs,2015-02-24,1,0
+Toyota,Camry,2011,6513,Electrical System Repairs,2018-09-18,1,0
+Chevrolet,Traverse,2019,2957,Cooling System Repairs,2021-02-14,0,1
+Nissan,Sentra,2019,2647,Transmission Diagnostics/Repair/Replacement,2021-12-09,1,0
+Honda,Accord,2012,6144,Transmission Diagnostics/Repair/Replacement,2012-05-13,1,1
+Nissan,Pathfinder,2010,7339,Cooling System Repairs,2022-10-09,0,0
+Hyundai,Santa Fe,2019,2667,Brake System Repairs,2021-01-08,1,1
+Mercedes-Benz,E-Class,2019,2594,Electrical System Repairs,2023-01-24,0,1
+Audi,Q7,2015,4898,Wear-and-Tear Replacements,2023-07-03,0,0
+Audi,Q5,2012,6112,Cooling System Repairs,2013-05-17,0,1
+Ford,Escape,2011,6863,Routine Maintenance Services,2018-03-14,0,0
+Ford,Focus,2011,6674,Wear-and-Tear Replacements,2011-01-25,1,0
+Hyundai,Santa Fe,2014,5221,Engine Diagnostics/Repair/Replacement,2022-03-24,0,0
+Mercedes-Benz,E-Class,2016,4137,Wear-and-Tear Replacements,2019-10-14,0,0
+Hyundai,Santa Fe,2019,2941,Routine Maintenance Services,2022-03-14,1,1
+BMW,X3,2010,7080,Suspension System Repairs,2019-12-25,1,1
+Honda,Civic,2017,3827,Routine Maintenance Services,2020-12-30,1,1
+Nissan,Altima,2010,7061,Brake System Repairs,2010-05-03,0,1
+Volkswagen,Jetta,2015,4797,Brake System Repairs,2019-09-20,1,1
+Volkswagen,Tiguan,2010,7199,Engine Diagnostics/Repair/Replacement,2022-01-10,1,1
+Mercedes-Benz,E-Class,2013,5828,Electrical System Repairs,2014-01-08,0,0
+Hyundai,Santa Fe,2011,6998,Electrical System Repairs,2011-12-27,1,1
+Hyundai,Elantra,2015,4677,Transmission Diagnostics/Repair/Replacement,2015-11-08,1,0
+Chevrolet,Traverse,2017,3598,Engine Diagnostics/Repair/Replacement,2023-08-27,1,1
+Volkswagen,Jetta,2019,2768,Transmission Diagnostics/Repair/Replacement,2022-04-24,0,0
+Audi,A6,2013,5551,Routine Maintenance Services,2022-05-23,1,1
+Ford,F-150,2011,6966,Electrical System Repairs,2016-03-01,0,0
+Nissan,Altima,2012,6450,Transmission Diagnostics/Repair/Replacement,2012-04-24,1,0
+Toyota,Prius,2014,5355,Transmission Diagnostics/Repair/Replacement,2014-01-03,0,1
+BMW,5 Series,2017,3573,Routine Maintenance Services,2019-07-08,0,1
+Honda,CR-V,2014,5083,Routine Maintenance Services,2021-09-23,0,0
+Ford,Explorer,2016,4478,Transmission Diagnostics/Repair/Replacement,2020-02-19,0,0
+Mercedes-Benz,E-Class,2010,7028,Wear-and-Tear Replacements,2017-10-12,0,0
+Mercedes-Benz,C-Class,2017,3657,Brake System Repairs,2019-09-09,0,1
+Hyundai,Tucson,2011,6538,Suspension System Repairs,2017-08-06,0,1
+Audi,A6,2012,6188,Wear-and-Tear Replacements,2019-06-06,1,1
+Ford,Focus,2010,7492,Multiple Unscheduled Repairs,2019-12-10,0,1
+Nissan,Altima,2020,2391,Electrical System Repairs,2020-08-05,0,1
+Nissan,Pathfinder,2015,4754,Wear-and-Tear Replacements,2021-09-22,1,1
+Ford,Focus,2011,6690,Transmission Diagnostics/Repair/Replacement,2018-10-22,0,0
+Mercedes-Benz,GLE,2015,4628,Engine Diagnostics/Repair/Replacement,2018-09-13,1,1
+Ford,Focus,2015,4876,Electrical System Repairs,2016-01-09,0,1
+Nissan,Sentra,2014,5098,Transmission Diagnostics/Repair/Replacement,2017-08-21,1,0
+Honda,Pilot,2016,4178,Brake System Repairs,2023-06-02,0,0
+BMW,5 Series,2016,4491,Multiple Unscheduled Repairs,2021-04-25,1,0
+BMW,X5,2012,6317,Brake System Repairs,2012-11-24,1,1
+Mercedes-Benz,C-Class,2020,2176,Engine Diagnostics/Repair/Replacement,2023-12-08,0,1
+Mercedes-Benz,C-Class,2011,6779,Electrical System Repairs,2023-09-21,0,1
+Audi,A6,2019,2874,Cooling System Repairs,2019-06-22,1,1
+Toyota,Rav4,2017,3689,Cooling System Repairs,2019-08-27,0,0
+Mercedes-Benz,GLC,2014,5078,Wear-and-Tear Replacements,2016-02-15,1,0
+Hyundai,Elantra,2010,7411,Wear-and-Tear Replacements,2013-10-25,0,1
+Mercedes-Benz,E-Class,2011,6653,Electrical System Repairs,2020-02-14,0,0
+Mercedes-Benz,GLE,2013,5947,Routine Maintenance Services,2016-06-03,0,0
+Chevrolet,Silverado,2017,3831,Electrical System Repairs,2018-04-25,1,1
+Hyundai,Tucson,2010,7124,Cooling System Repairs,2021-06-12,0,0
+Mercedes-Benz,GLC,2019,2976,Routine Maintenance Services,2020-07-12,0,1
+BMW,X5,2010,7459,Cooling System Repairs,2015-01-04,0,1
+Hyundai,Santa Fe,2014,5244,Engine Diagnostics/Repair/Replacement,2015-02-26,0,1
+Mercedes-Benz,C-Class,2013,5777,Engine Diagnostics/Repair/Replacement,2022-10-11,0,1
+Nissan,Altima,2018,3038,Routine Maintenance Services,2021-02-06,0,1
+Ford,Escape,2013,5886,Multiple Unscheduled Repairs,2015-12-03,1,0
+Honda,Pilot,2014,5344,Wear-and-Tear Replacements,2021-04-18,1,1
+Volkswagen,Jetta,2019,2935,Multiple Unscheduled Repairs,2022-08-04,0,1
+Ford,F-150,2016,4006,Engine Diagnostics/Repair/Replacement,2017-12-06,1,1
+BMW,3 Series,2011,6998,Cooling System Repairs,2021-04-12,1,1
+Honda,Accord,2020,2262,Electrical System Repairs,2023-01-25,0,0
+Honda,Pilot,2020,2054,Brake System Repairs,2021-10-06,0,0
+BMW,X3,2010,7230,Cooling System Repairs,2013-07-17,1,1
+Audi,Q5,2012,6259,Multiple Unscheduled Repairs,2020-12-18,1,1
+Toyota,Camry,2014,5027,Electrical System Repairs,2020-10-02,0,1
+Volkswagen,Tiguan,2012,6368,Engine Diagnostics/Repair/Replacement,2016-11-10,0,1
+Ford,F-150,2015,4731,Wear-and-Tear Replacements,2019-08-27,0,1
+Audi,A6,2017,3884,Electrical System Repairs,2023-03-07,0,0
+Toyota,Corolla,2012,6175,Engine Diagnostics/Repair/Replacement,2016-08-27,1,1
+BMW,X5,2015,4773,Suspension System Repairs,2022-05-12,1,0
+Nissan,Sentra,2020,2450,Transmission Diagnostics/Repair/Replacement,2023-05-10,0,0
+Volkswagen,Jetta,2013,5830,Wear-and-Tear Replacements,2022-11-13,1,0
+Mercedes-Benz,GLE,2015,4557,Electrical System Repairs,2018-11-08,0,1
+Chevrolet,Malibu,2015,4806,Engine Diagnostics/Repair/Replacement,2021-07-17,0,0
+Chevrolet,Traverse,2020,2484,Electrical System Repairs,2020-05-29,0,0
+BMW,X5,2016,4039,Transmission Diagnostics/Repair/Replacement,2022-08-19,0,0
+Toyota,Camry,2015,4902,Electrical System Repairs,2019-12-21,1,0
+Chevrolet,Silverado,2010,7154,Transmission Diagnostics/Repair/Replacement,2012-08-31,0,0
+Toyota,Camry,2019,2892,Electrical System Repairs,2021-07-23,1,1
+BMW,3 Series,2014,5170,Wear-and-Tear Replacements,2014-09-19,1,1
+Volkswagen,Passat,2019,2697,Engine Diagnostics/Repair/Replacement,2023-02-05,0,1
+Honda,Civic,2019,2948,Engine Diagnostics/Repair/Replacement,2021-07-09,1,0
+Honda,Accord,2020,2009,Brake System Repairs,2022-11-28,0,1
+Mercedes-Benz,GLC,2018,3430,Multiple Unscheduled Repairs,2022-05-01,1,1
+Mercedes-Benz,E-Class,2020,2315,Electrical System Repairs,2023-07-15,0,1
+Volkswagen,Tiguan,2013,5911,Electrical System Repairs,2019-09-13,1,1
+Mercedes-Benz,E-Class,2015,4559,Electrical System Repairs,2023-03-26,1,1
+BMW,5 Series,2018,3115,Wear-and-Tear Replacements,2023-08-01,0,1
+Toyota,Rav4,2019,2862,Transmission Diagnostics/Repair/Replacement,2023-04-09,0,0
+Honda,Pilot,2014,5123,Electrical System Repairs,2019-09-24,1,1
+BMW,X5,2015,4876,Wear-and-Tear Replacements,2018-03-01,0,0
+Honda,CR-V,2016,4007,Multiple Unscheduled Repairs,2022-01-19,0,0
+BMW,5 Series,2017,3876,Suspension System Repairs,2023-06-20,0,0
+Ford,Escape,2019,2984,Transmission Diagnostics/Repair/Replacement,2020-03-24,0,0
+Ford,Escape,2011,6858,Cooling System Repairs,2020-08-17,0,0
+Toyota,Rav4,2010,7364,Routine Maintenance Services,2014-11-20,0,1
+Audi,A4,2016,4398,Routine Maintenance Services,2020-08-08,1,0
+Ford,F-150,2012,6130,Engine Diagnostics/Repair/Replacement,2013-09-26,1,1
+Mercedes-Benz,GLC,2010,7382,Engine Diagnostics/Repair/Replacement,2012-11-09,0,0
+Audi,Q5,2020,2416,Brake System Repairs,2022-06-12,0,0
+Honda,Civic,2015,4543,Wear-and-Tear Replacements,2021-08-10,0,1
+BMW,5 Series,2020,2463,Suspension System Repairs,2020-02-15,0,0
+Audi,A4,2013,5678,Suspension System Repairs,2019-06-12,1,0
+Nissan,Rogue,2020,2366,Suspension System Repairs,2023-08-30,1,1
+Ford,Focus,2020,2327,Cooling System Repairs,2020-02-23,0,0
+Audi,Q5,2017,3892,Cooling System Repairs,2022-10-11,0,0
+Ford,Explorer,2012,6093,Engine Diagnostics/Repair/Replacement,2014-02-21,1,1
+Audi,A4,2015,4582,Engine Diagnostics/Repair/Replacement,2019-12-25,0,0
+Chevrolet,Malibu,2011,6822,Cooling System Repairs,2013-12-09,0,0
+BMW,X3,2020,2372,Routine Maintenance Services,2020-04-17,1,1
+BMW,X3,2012,6436,Suspension System Repairs,2020-08-21,1,0
+Chevrolet,Traverse,2010,7381,Suspension System Repairs,2023-10-04,0,0
+Toyota,Prius,2013,5840,Suspension System Repairs,2018-10-16,0,1
+Chevrolet,Equinox,2015,4968,Engine Diagnostics/Repair/Replacement,2016-03-20,1,0
+Chevrolet,Traverse,2013,5715,Brake System Repairs,2023-07-27,1,1
+Volkswagen,Tiguan,2011,6957,Wear-and-Tear Replacements,2013-05-14,1,1
+Audi,A4,2014,5489,Cooling System Repairs,2022-09-02,0,0
+Audi,Q7,2012,6044,Transmission Diagnostics/Repair/Replacement,2018-08-17,0,1
+Volkswagen,Tiguan,2010,7487,Wear-and-Tear Replacements,2023-02-15,0,0
+Honda,Pilot,2014,5263,Suspension System Repairs,2020-07-29,0,1
+Honda,Civic,2010,7212,Wear-and-Tear Replacements,2019-07-22,1,1
+Audi,Q5,2020,2341,Wear-and-Tear Replacements,2022-07-29,1,0
+Volkswagen,Passat,2013,5592,Cooling System Repairs,2021-07-15,1,1
+BMW,5 Series,2020,2301,Transmission Diagnostics/Repair/Replacement,2020-12-28,1,0
+Audi,A6,2019,2712,Transmission Diagnostics/Repair/Replacement,2022-12-14,0,0
+Toyota,Corolla,2019,2802,Routine Maintenance Services,2023-04-29,1,0
+Chevrolet,Malibu,2020,2465,Brake System Repairs,2022-12-11,0,0
+BMW,3 Series,2017,3924,Multiple Unscheduled Repairs,2021-03-03,1,0
+Honda,Accord,2014,5120,Engine Diagnostics/Repair/Replacement,2020-05-18,1,1
+Honda,Civic,2019,2965,Brake System Repairs,2020-11-22,0,1
+Mercedes-Benz,E-Class,2017,3963,Suspension System Repairs,2023-12-22,0,1
+BMW,5 Series,2010,7292,Electrical System Repairs,2021-04-30,0,0
+Hyundai,Santa Fe,2015,4823,Wear-and-Tear Replacements,2022-05-25,1,1
+Chevrolet,Malibu,2014,5411,Cooling System Repairs,2015-01-06,1,1
+Ford,F-150,2017,3621,Suspension System Repairs,2017-12-24,0,0
+Toyota,Camry,2011,6885,Routine Maintenance Services,2019-10-21,1,1
+Hyundai,Elantra,2020,2403,Engine Diagnostics/Repair/Replacement,2021-12-25,0,1
+Audi,A6,2016,4009,Multiple Unscheduled Repairs,2018-05-25,0,0
+Mercedes-Benz,E-Class,2018,3121,Multiple Unscheduled Repairs,2022-11-21,1,1
+Audi,Q5,2013,5554,Cooling System Repairs,2014-03-02,0,1
+BMW,X3,2018,3494,Multiple Unscheduled Repairs,2022-06-01,1,1
+Nissan,Rogue,2010,7293,Electrical System Repairs,2013-02-13,1,0
+Nissan,Pathfinder,2010,7471,Routine Maintenance Services,2022-12-24,0,0
+Nissan,Sentra,2014,5011,Suspension System Repairs,2017-11-11,0,1
+Ford,Focus,2017,3672,Routine Maintenance Services,2017-05-06,1,1
+Chevrolet,Malibu,2016,4282,Engine Diagnostics/Repair/Replacement,2016-05-24,1,1
+Honda,Civic,2012,6148,Suspension System Repairs,2017-04-11,1,0
+Audi,A6,2013,5849,Suspension System Repairs,2022-06-30,0,0
+Chevrolet,Traverse,2020,2066,Multiple Unscheduled Repairs,2022-11-22,1,1
+Audi,Q7,2018,3252,Routine Maintenance Services,2018-11-02,0,1
+Ford,F-150,2011,6735,Brake System Repairs,2019-04-17,1,1
+Ford,Focus,2012,6457,Multiple Unscheduled Repairs,2022-02-28,1,1
+Audi,A4,2018,3288,Multiple Unscheduled Repairs,2023-11-19,0,0
+Mercedes-Benz,GLE,2016,4421,Routine Maintenance Services,2021-02-26,0,1
+Audi,A4,2018,3452,Engine Diagnostics/Repair/Replacement,2023-08-09,1,1
+Hyundai,Elantra,2019,2750,Brake System Repairs,2023-09-25,0,0
+Ford,Focus,2020,2064,Brake System Repairs,2021-09-17,0,1
+Volkswagen,Tiguan,2011,6773,Wear-and-Tear Replacements,2020-09-09,0,0
+Volkswagen,Atlas,2015,4503,Cooling System Repairs,2019-03-08,1,1
+Toyota,Prius,2016,4202,Wear-and-Tear Replacements,2021-05-13,1,1
+Honda,Civic,2018,3312,Multiple Unscheduled Repairs,2022-07-08,0,1
+Ford,Explorer,2016,4187,Suspension System Repairs,2016-12-29,1,1
+Mercedes-Benz,GLC,2019,2820,Routine Maintenance Services,2023-12-16,1,1
+Nissan,Sentra,2011,6610,Engine Diagnostics/Repair/Replacement,2013-08-16,1,0
+Chevrolet,Traverse,2011,6577,Multiple Unscheduled Repairs,2013-02-24,1,0
+Nissan,Rogue,2011,6681,Transmission Diagnostics/Repair/Replacement,2021-08-04,1,1
+Ford,Explorer,2011,6820,Brake System Repairs,2019-03-26,1,0
+Volkswagen,Atlas,2016,4303,Suspension System Repairs,2016-10-10,0,1
+Volkswagen,Passat,2017,3742,Engine Diagnostics/Repair/Replacement,2021-10-02,1,0
+Hyundai,Sonata,2020,2029,Engine Diagnostics/Repair/Replacement,2020-07-19,1,1
+Chevrolet,Malibu,2015,4753,Routine Maintenance Services,2017-05-24,0,1
+BMW,X5,2010,7353,Brake System Repairs,2021-02-28,1,1
+Volkswagen,Jetta,2018,3095,Multiple Unscheduled Repairs,2018-12-17,0,0
+Honda,Accord,2010,7324,Engine Diagnostics/Repair/Replacement,2020-04-19,1,1
+Chevrolet,Equinox,2012,6040,Suspension System Repairs,2023-04-13,0,1
+Mercedes-Benz,C-Class,2014,5247,Cooling System Repairs,2017-07-30,1,0
+Mercedes-Benz,C-Class,2013,5656,Electrical System Repairs,2019-04-14,0,1
+BMW,X5,2018,3151,Wear-and-Tear Replacements,2023-09-03,0,1
+Mercedes-Benz,GLE,2010,7268,Transmission Diagnostics/Repair/Replacement,2015-06-20,0,0
+Honda,Civic,2012,6270,Electrical System Repairs,2014-10-16,1,0
+Hyundai,Elantra,2012,6353,Suspension System Repairs,2015-04-25,1,0
+Nissan,Altima,2013,5817,Brake System Repairs,2021-05-20,0,0
+BMW,5 Series,2012,6214,Brake System Repairs,2020-08-06,0,0
+Chevrolet,Equinox,2011,6675,Wear-and-Tear Replacements,2020-02-20,0,0
+Honda,CR-V,2017,3815,Transmission Diagnostics/Repair/Replacement,2020-09-16,1,1
+Toyota,Camry,2015,4700,Multiple Unscheduled Repairs,2019-10-25,0,1
+Honda,Accord,2013,5885,Brake System Repairs,2016-01-03,1,0
+Nissan,Altima,2011,6696,Engine Diagnostics/Repair/Replacement,2013-07-01,0,1
+Hyundai,Elantra,2013,5558,Wear-and-Tear Replacements,2021-12-19,1,1
+Toyota,Prius,2019,2714,Brake System Repairs,2021-11-30,1,0
+Hyundai,Elantra,2016,4428,Routine Maintenance Services,2022-06-30,1,1
+BMW,X5,2016,4062,Cooling System Repairs,2019-03-23,0,1
+Honda,Pilot,2020,2037,Electrical System Repairs,2020-07-07,0,1
+Nissan,Sentra,2012,6498,Cooling System Repairs,2019-04-07,0,0
+Toyota,Camry,2016,4007,Cooling System Repairs,2018-11-21,0,0
+Toyota,Corolla,2016,4042,Wear-and-Tear Replacements,2018-11-14,0,0
+Chevrolet,Silverado,2019,2501,Multiple Unscheduled Repairs,2022-03-26,0,1
+Ford,Escape,2012,6064,Wear-and-Tear Replacements,2021-05-04,0,1
+Honda,Accord,2011,6519,Electrical System Repairs,2020-09-08,1,0
+BMW,X5,2016,4000,Multiple Unscheduled Repairs,2021-12-07,1,0
+Ford,Explorer,2016,4248,Suspension System Repairs,2019-09-11,0,1
+Mercedes-Benz,GLE,2016,4153,Engine Diagnostics/Repair/Replacement,2023-05-22,0,1
+Toyota,Rav4,2010,7136,Engine Diagnostics/Repair/Replacement,2020-01-21,1,1
+BMW,5 Series,2010,7449,Wear-and-Tear Replacements,2010-05-10,0,1
+BMW,X3,2010,7449,Cooling System Repairs,2018-11-10,0,0
+BMW,X5,2012,6101,Brake System Repairs,2014-02-14,0,1
+Toyota,Rav4,2017,3685,Engine Diagnostics/Repair/Replacement,2018-07-13,1,1
+Mercedes-Benz,C-Class,2015,4921,Engine Diagnostics/Repair/Replacement,2015-09-21,1,1
+Chevrolet,Silverado,2017,3725,Electrical System Repairs,2018-03-04,0,0
+Mercedes-Benz,GLC,2019,2691,Electrical System Repairs,2019-06-16,0,0
+Mercedes-Benz,C-Class,2020,2017,Electrical System Repairs,2020-10-24,1,0
+Hyundai,Sonata,2012,6445,Electrical System Repairs,2019-01-01,1,0
+Nissan,Rogue,2014,5409,Wear-and-Tear Replacements,2021-08-04,1,1
+BMW,X3,2012,6255,Routine Maintenance Services,2012-08-12,0,0
+Ford,Explorer,2019,2768,Engine Diagnostics/Repair/Replacement,2023-04-12,0,0
+Audi,A4,2017,3500,Electrical System Repairs,2021-12-16,1,1
+Hyundai,Sonata,2013,5805,Multiple Unscheduled Repairs,2018-12-10,1,0
+Ford,Explorer,2018,3467,Suspension System Repairs,2019-12-19,0,0
+Nissan,Sentra,2011,6794,Cooling System Repairs,2019-05-20,1,0
+Nissan,Altima,2020,2350,Transmission Diagnostics/Repair/Replacement,2020-11-18,1,1
+BMW,5 Series,2010,7033,Multiple Unscheduled Repairs,2022-06-11,1,1
+Chevrolet,Malibu,2011,6516,Cooling System Repairs,2022-12-13,1,0
+Mercedes-Benz,C-Class,2016,4392,Transmission Diagnostics/Repair/Replacement,2021-09-07,0,0
+Volkswagen,Tiguan,2014,5455,Suspension System Repairs,2019-11-23,1,1
+Audi,Q7,2015,4511,Wear-and-Tear Replacements,2018-05-03,1,1
+Volkswagen,Tiguan,2011,6858,Suspension System Repairs,2023-12-15,0,1
+Toyota,Prius,2015,4890,Electrical System Repairs,2015-08-03,0,1
+Hyundai,Santa Fe,2013,5857,Wear-and-Tear Replacements,2021-01-31,1,0
+Mercedes-Benz,E-Class,2018,3392,Electrical System Repairs,2022-06-10,1,0
+Nissan,Rogue,2013,5718,Cooling System Repairs,2015-05-25,1,1
+Toyota,Corolla,2017,3810,Wear-and-Tear Replacements,2017-05-21,1,0
+Nissan,Sentra,2019,2773,Routine Maintenance Services,2020-06-11,1,1
+Mercedes-Benz,E-Class,2011,6696,Brake System Repairs,2022-03-07,1,1
+Ford,Escape,2017,3893,Suspension System Repairs,2023-06-06,0,0
+Chevrolet,Equinox,2018,3362,Routine Maintenance Services,2021-07-18,0,1
+Ford,F-150,2011,6844,Routine Maintenance Services,2015-04-22,1,0
+Toyota,Rav4,2020,2286,Wear-and-Tear Replacements,2023-02-22,1,0
+Nissan,Altima,2016,4352,Suspension System Repairs,2017-04-16,0,0
+Chevrolet,Silverado,2012,6236,Wear-and-Tear Replacements,2021-03-27,1,0
+BMW,3 Series,2014,5372,Routine Maintenance Services,2019-04-09,0,0
+Nissan,Rogue,2016,4154,Suspension System Repairs,2017-03-22,1,0
+Audi,Q7,2016,4253,Wear-and-Tear Replacements,2018-07-23,1,1
+Audi,A4,2011,6872,Transmission Diagnostics/Repair/Replacement,2012-04-12,1,1
+Mercedes-Benz,E-Class,2018,3030,Electrical System Repairs,2020-07-27,0,0
+Ford,Escape,2016,4287,Suspension System Repairs,2018-09-20,0,0
+Hyundai,Elantra,2020,2091,Engine Diagnostics/Repair/Replacement,2020-03-06,0,1
+Mercedes-Benz,GLE,2018,3261,Transmission Diagnostics/Repair/Replacement,2021-10-05,1,1
+Nissan,Altima,2015,4651,Cooling System Repairs,2015-06-19,1,0
+Chevrolet,Malibu,2013,5793,Suspension System Repairs,2021-05-19,0,0
+Honda,CR-V,2010,7495,Multiple Unscheduled Repairs,2014-11-06,1,1
+Audi,A6,2013,5585,Electrical System Repairs,2023-08-03,1,1
+Mercedes-Benz,GLE,2018,3320,Suspension System Repairs,2022-05-15,1,1
+Ford,F-150,2018,3239,Engine Diagnostics/Repair/Replacement,2022-06-28,1,0
+Audi,Q5,2017,3653,Wear-and-Tear Replacements,2021-12-18,0,1
+Mercedes-Benz,GLC,2011,6695,Electrical System Repairs,2018-04-18,1,0
+Mercedes-Benz,GLE,2013,5871,Transmission Diagnostics/Repair/Replacement,2019-04-01,1,1
+Nissan,Pathfinder,2018,3288,Multiple Unscheduled Repairs,2021-08-28,0,0
+Mercedes-Benz,C-Class,2015,4667,Electrical System Repairs,2023-06-20,0,0
+Chevrolet,Malibu,2011,6797,Suspension System Repairs,2015-06-16,0,0
+Audi,Q5,2011,6908,Cooling System Repairs,2023-03-31,0,1
+Audi,A6,2010,7349,Electrical System Repairs,2010-06-10,0,0
+Volkswagen,Jetta,2011,6875,Engine Diagnostics/Repair/Replacement,2022-02-17,0,1
+BMW,X5,2016,4387,Engine Diagnostics/Repair/Replacement,2021-12-21,1,0
+Audi,A4,2015,4692,Transmission Diagnostics/Repair/Replacement,2016-08-21,0,0
+Nissan,Rogue,2017,3501,Engine Diagnostics/Repair/Replacement,2023-03-25,1,0
+Honda,CR-V,2013,5926,Electrical System Repairs,2015-11-22,1,0
+Honda,CR-V,2010,7104,Suspension System Repairs,2012-03-09,0,0
+Volkswagen,Jetta,2016,4229,Transmission Diagnostics/Repair/Replacement,2018-02-07,1,1
+BMW,X5,2012,6170,Engine Diagnostics/Repair/Replacement,2013-09-25,0,1
+Ford,F-150,2017,3538,Wear-and-Tear Replacements,2019-06-23,0,1
+BMW,3 Series,2016,4358,Engine Diagnostics/Repair/Replacement,2019-01-13,0,0
+Mercedes-Benz,E-Class,2012,6334,Engine Diagnostics/Repair/Replacement,2017-09-17,1,0
+Hyundai,Sonata,2010,7142,Transmission Diagnostics/Repair/Replacement,2012-04-20,0,0
+Volkswagen,Atlas,2018,3012,Routine Maintenance Services,2023-12-02,0,0
+Toyota,Corolla,2020,2447,Electrical System Repairs,2021-10-16,1,1
+Chevrolet,Malibu,2011,6804,Engine Diagnostics/Repair/Replacement,2014-06-16,1,1
+BMW,3 Series,2013,5924,Electrical System Repairs,2018-03-21,0,1
+BMW,3 Series,2011,6718,Engine Diagnostics/Repair/Replacement,2016-01-15,1,0
+BMW,5 Series,2015,4840,Brake System Repairs,2017-04-04,0,0
+Ford,F-150,2019,2870,Multiple Unscheduled Repairs,2019-06-10,0,1
+Ford,F-150,2020,2339,Cooling System Repairs,2023-08-26,0,1
+Toyota,Rav4,2014,5297,Electrical System Repairs,2014-07-22,1,0
+Mercedes-Benz,GLE,2013,5704,Transmission Diagnostics/Repair/Replacement,2017-10-31,1,1
+BMW,X3,2020,2427,Brake System Repairs,2023-09-05,0,0
+Honda,Accord,2018,3402,Suspension System Repairs,2023-02-09,1,1
+BMW,3 Series,2013,5579,Routine Maintenance Services,2020-09-27,0,0
+Mercedes-Benz,GLC,2012,6281,Engine Diagnostics/Repair/Replacement,2021-10-28,0,1
+Volkswagen,Tiguan,2014,5408,Brake System Repairs,2015-11-19,1,1
+Mercedes-Benz,GLC,2020,2376,Multiple Unscheduled Repairs,2020-07-23,1,0
+Volkswagen,Jetta,2014,5064,Routine Maintenance Services,2019-01-31,1,1
+Chevrolet,Malibu,2013,5633,Engine Diagnostics/Repair/Replacement,2023-09-23,1,1
+Volkswagen,Jetta,2016,4448,Multiple Unscheduled Repairs,2019-02-06,1,0
+Volkswagen,Atlas,2010,7262,Electrical System Repairs,2018-01-22,0,0
+Honda,CR-V,2017,3573,Electrical System Repairs,2021-03-04,0,0
+Mercedes-Benz,GLE,2016,4465,Wear-and-Tear Replacements,2016-08-18,1,1
+BMW,X3,2019,2769,Cooling System Repairs,2022-06-13,0,1
+Honda,CR-V,2019,2719,Electrical System Repairs,2021-02-25,0,1
+Toyota,Corolla,2018,3141,Transmission Diagnostics/Repair/Replacement,2022-05-14,1,1
+Ford,Explorer,2016,4246,Engine Diagnostics/Repair/Replacement,2020-07-15,1,1
+Nissan,Pathfinder,2015,4975,Routine Maintenance Services,2015-09-26,1,1
+Audi,Q5,2012,6214,Brake System Repairs,2019-10-31,1,0
+Nissan,Rogue,2017,3596,Wear-and-Tear Replacements,2019-01-13,0,0
+Volkswagen,Atlas,2015,4606,Suspension System Repairs,2021-02-26,0,0
+Chevrolet,Malibu,2010,7405,Electrical System Repairs,2012-07-02,1,1
+Honda,Accord,2016,4398,Engine Diagnostics/Repair/Replacement,2023-01-31,1,0
+Nissan,Rogue,2017,3810,Wear-and-Tear Replacements,2020-08-12,1,1
+Nissan,Altima,2020,2258,Cooling System Repairs,2020-01-29,0,0
+Volkswagen,Passat,2018,3449,Engine Diagnostics/Repair/Replacement,2018-09-11,0,1
+Ford,Explorer,2011,6856,Electrical System Repairs,2012-07-21,1,1
+BMW,X5,2020,2147,Brake System Repairs,2023-02-03,1,0
+Mercedes-Benz,GLE,2011,6980,Cooling System Repairs,2020-12-03,0,0
+Hyundai,Santa Fe,2017,3625,Brake System Repairs,2022-05-10,0,1
+Audi,Q7,2013,5546,Wear-and-Tear Replacements,2014-11-28,0,0
+Mercedes-Benz,GLE,2017,3782,Engine Diagnostics/Repair/Replacement,2017-11-14,0,0
+Audi,Q5,2019,2589,Wear-and-Tear Replacements,2023-03-10,1,0
+Honda,Pilot,2013,5839,Engine Diagnostics/Repair/Replacement,2020-10-10,0,0
+Nissan,Altima,2014,5274,Brake System Repairs,2014-08-26,1,0
+Nissan,Altima,2012,6171,Suspension System Repairs,2020-06-28,0,1
+Audi,A4,2016,4173,Cooling System Repairs,2016-07-09,0,0
+Audi,A6,2020,2188,Routine Maintenance Services,2023-04-02,1,1
+BMW,5 Series,2014,5492,Suspension System Repairs,2015-02-14,1,0
+Volkswagen,Tiguan,2011,6669,Electrical System Repairs,2023-05-31,0,0
+Mercedes-Benz,GLE,2019,2626,Multiple Unscheduled Repairs,2021-10-08,0,0
+Toyota,Camry,2015,4570,Multiple Unscheduled Repairs,2023-03-11,0,1
+Hyundai,Elantra,2018,3426,Multiple Unscheduled Repairs,2023-04-07,1,1
+Ford,Escape,2016,4309,Wear-and-Tear Replacements,2019-07-20,1,0
+Honda,Pilot,2016,4469,Engine Diagnostics/Repair/Replacement,2021-01-23,1,0
+Mercedes-Benz,C-Class,2011,6953,Multiple Unscheduled Repairs,2013-10-22,0,1
+Chevrolet,Malibu,2020,2256,Electrical System Repairs,2021-01-08,1,0
+Chevrolet,Equinox,2016,4325,Engine Diagnostics/Repair/Replacement,2022-02-04,0,1
+Toyota,Rav4,2011,6552,Electrical System Repairs,2014-12-01,0,0
+Chevrolet,Traverse,2012,6349,Multiple Unscheduled Repairs,2014-01-09,0,0
+Volkswagen,Passat,2013,5876,Electrical System Repairs,2021-10-27,1,0
+Toyota,Corolla,2017,3683,Cooling System Repairs,2018-03-18,1,1
+Ford,Escape,2010,7146,Electrical System Repairs,2015-11-02,1,1
+Honda,Accord,2020,2008,Multiple Unscheduled Repairs,2023-04-07,1,0
+Ford,Explorer,2011,6806,Routine Maintenance Services,2022-12-27,0,1
+Volkswagen,Jetta,2019,2714,Suspension System Repairs,2020-01-01,0,1
+Mercedes-Benz,GLE,2011,6653,Suspension System Repairs,2014-03-21,0,0
+Nissan,Altima,2010,7177,Routine Maintenance Services,2014-07-06,1,1
+Toyota,Corolla,2016,4247,Suspension System Repairs,2017-02-19,0,1
+Chevrolet,Silverado,2013,5836,Wear-and-Tear Replacements,2019-01-01,1,1
+Nissan,Rogue,2014,5186,Engine Diagnostics/Repair/Replacement,2020-06-23,1,1
+Mercedes-Benz,E-Class,2013,5644,Routine Maintenance Services,2016-12-26,1,1
+Toyota,Corolla,2019,2860,Cooling System Repairs,2023-02-02,1,0
+Volkswagen,Atlas,2011,6767,Electrical System Repairs,2016-01-18,0,1
+Mercedes-Benz,GLE,2013,5644,Engine Diagnostics/Repair/Replacement,2015-08-16,1,1
+Volkswagen,Tiguan,2019,2591,Cooling System Repairs,2019-09-23,1,1
+Chevrolet,Silverado,2018,3064,Electrical System Repairs,2020-04-03,0,0
+Hyundai,Tucson,2011,6893,Engine Diagnostics/Repair/Replacement,2014-05-20,1,1
+BMW,X5,2017,3555,Transmission Diagnostics/Repair/Replacement,2023-02-23,0,0
+Volkswagen,Passat,2013,5644,Transmission Diagnostics/Repair/Replacement,2022-11-21,0,0
+Audi,Q5,2019,2687,Multiple Unscheduled Repairs,2022-07-02,0,1
+Audi,A6,2017,3939,Cooling System Repairs,2018-06-01,0,0
+Chevrolet,Traverse,2018,3314,Electrical System Repairs,2019-09-21,1,0
+Nissan,Sentra,2012,6093,Brake System Repairs,2020-09-17,0,0
+Nissan,Sentra,2011,6521,Brake System Repairs,2012-01-03,0,0
+Toyota,Corolla,2018,3025,Brake System Repairs,2022-02-27,1,0
+BMW,X3,2011,6733,Transmission Diagnostics/Repair/Replacement,2016-10-09,0,0
+BMW,3 Series,2010,7244,Cooling System Repairs,2021-08-21,0,1
+Honda,Civic,2010,7213,Wear-and-Tear Replacements,2014-11-17,0,0
+Mercedes-Benz,GLE,2013,5539,Brake System Repairs,2020-05-03,0,1
+Nissan,Altima,2017,3861,Transmission Diagnostics/Repair/Replacement,2020-06-13,0,1
+Mercedes-Benz,GLE,2020,2289,Electrical System Repairs,2020-04-18,1,1
+Volkswagen,Tiguan,2018,3280,Suspension System Repairs,2019-12-16,0,0
+Volkswagen,Jetta,2010,7275,Cooling System Repairs,2018-05-28,1,0
+Ford,Focus,2017,3588,Routine Maintenance Services,2018-12-11,0,1
+Nissan,Rogue,2018,3273,Transmission Diagnostics/Repair/Replacement,2020-09-25,1,1
+Volkswagen,Jetta,2013,5749,Suspension System Repairs,2015-12-18,0,1
+Honda,Civic,2016,4076,Engine Diagnostics/Repair/Replacement,2023-10-09,0,0
+BMW,5 Series,2020,2017,Engine Diagnostics/Repair/Replacement,2021-01-06,0,1
+Mercedes-Benz,GLE,2014,5007,Wear-and-Tear Replacements,2022-09-05,0,0
+Volkswagen,Tiguan,2016,4455,Suspension System Repairs,2021-01-30,1,1
+Ford,F-150,2019,2873,Wear-and-Tear Replacements,2020-03-11,0,0
+Audi,Q5,2018,3178,Routine Maintenance Services,2021-07-27,0,1
+Honda,CR-V,2014,5058,Wear-and-Tear Replacements,2019-08-01,1,1
+Volkswagen,Atlas,2014,5016,Electrical System Repairs,2016-11-24,1,0
+Mercedes-Benz,C-Class,2018,3231,Suspension System Repairs,2020-01-15,1,0
+Hyundai,Santa Fe,2014,5468,Suspension System Repairs,2022-10-05,0,0
+Honda,Civic,2016,4115,Engine Diagnostics/Repair/Replacement,2019-05-08,1,0
+Toyota,Camry,2020,2328,Suspension System Repairs,2021-11-09,0,1
+Nissan,Altima,2018,3178,Transmission Diagnostics/Repair/Replacement,2023-10-05,1,0
+Toyota,Corolla,2020,2179,Brake System Repairs,2022-11-14,1,1
+Toyota,Corolla,2016,4378,Transmission Diagnostics/Repair/Replacement,2018-04-23,1,1
+Toyota,Corolla,2012,6250,Suspension System Repairs,2023-09-15,1,1
+Ford,F-150,2011,6523,Cooling System Repairs,2014-05-07,0,0
+Audi,A4,2019,2560,Cooling System Repairs,2022-07-07,0,0
+Ford,Focus,2014,5184,Multiple Unscheduled Repairs,2020-09-01,0,0
+Hyundai,Elantra,2012,6046,Cooling System Repairs,2022-01-05,0,0
+Toyota,Corolla,2016,4139,Suspension System Repairs,2018-06-15,1,0
+Ford,Focus,2013,5995,Wear-and-Tear Replacements,2023-11-12,0,0
+Hyundai,Santa Fe,2010,7222,Multiple Unscheduled Repairs,2016-01-13,1,1
+Audi,Q5,2016,4378,Engine Diagnostics/Repair/Replacement,2016-11-29,0,0
+Ford,F-150,2020,2352,Brake System Repairs,2023-10-17,0,1
+Mercedes-Benz,C-Class,2013,5970,Routine Maintenance Services,2014-07-05,1,1
+Honda,Pilot,2020,2163,Electrical System Repairs,2021-10-19,1,1
+Toyota,Prius,2010,7324,Electrical System Repairs,2014-08-21,0,0
+Ford,Focus,2014,5105,Engine Diagnostics/Repair/Replacement,2019-02-01,1,0
+Ford,Escape,2014,5452,Transmission Diagnostics/Repair/Replacement,2019-06-01,1,1
+Audi,A6,2010,7052,Transmission Diagnostics/Repair/Replacement,2023-08-04,1,0
+Chevrolet,Equinox,2020,2266,Multiple Unscheduled Repairs,2023-08-07,1,0
+Ford,Escape,2014,5455,Engine Diagnostics/Repair/Replacement,2016-05-12,0,1
+Mercedes-Benz,GLE,2019,2533,Electrical System Repairs,2020-06-11,1,0
+Honda,CR-V,2014,5466,Suspension System Repairs,2022-11-19,1,0
+Nissan,Altima,2013,5767,Routine Maintenance Services,2014-09-22,0,0
+Honda,Accord,2016,4362,Cooling System Repairs,2022-07-02,0,1
+Toyota,Prius,2020,2091,Multiple Unscheduled Repairs,2022-04-22,1,0
+Nissan,Rogue,2015,4574,Engine Diagnostics/Repair/Replacement,2015-03-16,1,1
+BMW,5 Series,2018,3046,Brake System Repairs,2019-03-27,1,1
+Nissan,Sentra,2018,3244,Multiple Unscheduled Repairs,2019-08-16,0,0
+BMW,X5,2016,4290,Cooling System Repairs,2023-08-01,0,1
+Hyundai,Tucson,2010,7074,Transmission Diagnostics/Repair/Replacement,2015-04-03,0,1
+Toyota,Corolla,2017,3847,Routine Maintenance Services,2022-04-04,1,1
+Chevrolet,Malibu,2019,2907,Routine Maintenance Services,2022-03-17,0,1
+Toyota,Camry,2018,3219,Wear-and-Tear Replacements,2021-12-09,0,0
+Honda,Civic,2014,5327,Brake System Repairs,2022-03-08,0,0
+Audi,A6,2015,4576,Electrical System Repairs,2015-05-16,0,1
+Toyota,Corolla,2011,6966,Wear-and-Tear Replacements,2019-07-10,0,0
+Hyundai,Elantra,2011,6543,Cooling System Repairs,2015-04-26,1,1
+Nissan,Sentra,2019,2674,Wear-and-Tear Replacements,2023-07-27,0,0
+Mercedes-Benz,C-Class,2016,4452,Brake System Repairs,2019-12-21,0,1
+Volkswagen,Passat,2016,4392,Transmission Diagnostics/Repair/Replacement,2021-09-30,1,0
+Honda,Pilot,2017,3689,Electrical System Repairs,2017-12-05,1,0
+Hyundai,Sonata,2013,5776,Engine Diagnostics/Repair/Replacement,2020-03-16,1,0
+Audi,Q7,2015,4626,Suspension System Repairs,2017-09-27,0,0
+Toyota,Rav4,2012,6221,Cooling System Repairs,2022-01-01,0,1
+Toyota,Camry,2011,6548,Engine Diagnostics/Repair/Replacement,2016-11-25,1,1
+Ford,Focus,2019,2972,Suspension System Repairs,2022-10-05,1,0
+Ford,Explorer,2020,2006,Suspension System Repairs,2021-12-27,0,1
+BMW,X3,2011,6900,Suspension System Repairs,2013-01-22,1,0
+BMW,X5,2015,4848,Electrical System Repairs,2018-10-22,1,1
+Audi,A6,2013,5558,Suspension System Repairs,2020-01-06,1,1
+Honda,Civic,2016,4354,Engine Diagnostics/Repair/Replacement,2018-06-20,0,0
+Ford,Focus,2014,5248,Suspension System Repairs,2020-12-29,0,1
+BMW,X5,2012,6287,Brake System Repairs,2020-11-21,1,0
+Nissan,Pathfinder,2015,4945,Multiple Unscheduled Repairs,2020-06-05,1,1
+Audi,A6,2016,4371,Electrical System Repairs,2020-09-21,0,1
+Volkswagen,Atlas,2012,6167,Multiple Unscheduled Repairs,2013-06-14,1,1
+Volkswagen,Atlas,2015,4781,Transmission Diagnostics/Repair/Replacement,2017-07-19,0,1
+Ford,Focus,2010,7263,Multiple Unscheduled Repairs,2017-09-07,0,0
+Hyundai,Sonata,2019,2994,Electrical System Repairs,2020-08-20,1,0
+Mercedes-Benz,GLC,2011,6900,Routine Maintenance Services,2013-01-12,0,1
+Honda,Civic,2014,5485,Brake System Repairs,2018-06-22,1,1
+Toyota,Rav4,2013,5998,Transmission Diagnostics/Repair/Replacement,2013-05-03,1,0
+Chevrolet,Malibu,2017,3978,Electrical System Repairs,2017-09-19,1,0
+BMW,X5,2016,4266,Engine Diagnostics/Repair/Replacement,2022-12-22,1,1
+Toyota,Prius,2019,2676,Wear-and-Tear Replacements,2019-02-19,0,1
+Audi,Q7,2011,6894,Transmission Diagnostics/Repair/Replacement,2014-01-14,1,1
+Hyundai,Santa Fe,2018,3166,Multiple Unscheduled Repairs,2019-04-13,1,0
+Volkswagen,Atlas,2013,5616,Brake System Repairs,2021-04-19,0,0
+Ford,Focus,2013,5942,Suspension System Repairs,2017-08-13,0,1
+Chevrolet,Silverado,2015,4920,Wear-and-Tear Replacements,2017-08-09,1,0
+Volkswagen,Jetta,2012,6036,Transmission Diagnostics/Repair/Replacement,2018-12-02,1,0
+BMW,X3,2019,2938,Cooling System Repairs,2023-08-12,0,0
+Audi,Q7,2018,3315,Multiple Unscheduled Repairs,2022-12-09,0,1
+Honda,Pilot,2010,7499,Electrical System Repairs,2022-12-21,0,1
+Honda,Accord,2020,2308,Electrical System Repairs,2020-03-29,0,0
+Chevrolet,Malibu,2010,7071,Wear-and-Tear Replacements,2021-07-11,0,1
+BMW,3 Series,2012,6265,Cooling System Repairs,2023-06-01,0,0
+Toyota,Prius,2015,4782,Transmission Diagnostics/Repair/Replacement,2023-11-07,1,1
+Hyundai,Tucson,2013,5685,Engine Diagnostics/Repair/Replacement,2014-12-20,0,0
+Mercedes-Benz,GLC,2020,2133,Engine Diagnostics/Repair/Replacement,2020-03-09,1,0
+Audi,A4,2014,5052,Brake System Repairs,2022-06-23,0,0
+Honda,Civic,2013,5616,Brake System Repairs,2020-08-31,0,1
+Nissan,Rogue,2018,3153,Multiple Unscheduled Repairs,2020-11-07,1,1
+Hyundai,Sonata,2013,5998,Electrical System Repairs,2015-06-21,0,0
+Mercedes-Benz,GLE,2013,5631,Electrical System Repairs,2015-09-10,0,0
+Volkswagen,Jetta,2013,5962,Routine Maintenance Services,2019-06-21,1,0
+Ford,F-150,2016,4083,Electrical System Repairs,2016-12-27,1,0
+Hyundai,Santa Fe,2014,5183,Engine Diagnostics/Repair/Replacement,2021-04-24,1,0
+Honda,CR-V,2019,2957,Engine Diagnostics/Repair/Replacement,2021-07-04,0,1
+Mercedes-Benz,E-Class,2017,3706,Engine Diagnostics/Repair/Replacement,2018-08-06,1,0
+Toyota,Corolla,2017,3675,Cooling System Repairs,2021-12-09,0,1
+Mercedes-Benz,C-Class,2017,3992,Suspension System Repairs,2022-05-04,1,1
+BMW,3 Series,2010,7385,Engine Diagnostics/Repair/Replacement,2018-07-02,1,0
+Mercedes-Benz,GLE,2020,2198,Transmission Diagnostics/Repair/Replacement,2020-12-02,1,1
+Ford,Explorer,2020,2147,Routine Maintenance Services,2020-07-15,1,0
+Ford,Escape,2014,5202,Brake System Repairs,2023-05-25,0,1
+Mercedes-Benz,E-Class,2017,3634,Electrical System Repairs,2017-06-16,0,0
+Volkswagen,Atlas,2019,2918,Multiple Unscheduled Repairs,2022-10-07,1,0
+Nissan,Altima,2019,2892,Suspension System Repairs,2023-01-27,1,0
+Toyota,Prius,2012,6465,Suspension System Repairs,2015-03-30,1,0
+Chevrolet,Silverado,2019,2550,Multiple Unscheduled Repairs,2020-11-09,1,0
+Hyundai,Sonata,2012,6010,Routine Maintenance Services,2018-09-13,1,0
+Volkswagen,Jetta,2020,2240,Wear-and-Tear Replacements,2023-09-10,0,0
+Audi,Q7,2016,4411,Routine Maintenance Services,2017-10-20,1,1
+Ford,Explorer,2011,6839,Routine Maintenance Services,2023-12-14,1,1
+Toyota,Camry,2014,5139,Cooling System Repairs,2023-11-29,0,1
+Toyota,Camry,2017,3587,Engine Diagnostics/Repair/Replacement,2023-04-16,1,1
+Ford,Escape,2018,3456,Transmission Diagnostics/Repair/Replacement,2021-06-24,1,1
+BMW,5 Series,2018,3158,Engine Diagnostics/Repair/Replacement,2023-10-03,1,0
+Volkswagen,Tiguan,2020,2293,Wear-and-Tear Replacements,2023-12-14,1,1
+Mercedes-Benz,GLC,2011,6749,Engine Diagnostics/Repair/Replacement,2016-11-20,1,1
+Volkswagen,Jetta,2010,7015,Engine Diagnostics/Repair/Replacement,2010-07-19,0,0
+BMW,X5,2011,6604,Suspension System Repairs,2011-12-23,1,1
+Nissan,Altima,2012,6101,Multiple Unscheduled Repairs,2017-12-07,0,1
+Audi,Q7,2020,2078,Routine Maintenance Services,2020-11-26,1,0
+Audi,Q7,2020,2118,Brake System Repairs,2022-03-10,0,0
+Nissan,Rogue,2013,5631,Engine Diagnostics/Repair/Replacement,2020-03-13,0,1
+Ford,Escape,2012,6303,Brake System Repairs,2023-12-11,0,0
+Hyundai,Tucson,2010,7257,Electrical System Repairs,2022-06-22,0,1
+Mercedes-Benz,GLE,2018,3021,Routine Maintenance Services,2019-05-08,1,1
+Honda,Pilot,2015,4690,Electrical System Repairs,2016-06-26,1,1
+Hyundai,Santa Fe,2015,4837,Cooling System Repairs,2017-08-24,1,0
+Nissan,Sentra,2014,5201,Electrical System Repairs,2023-07-30,1,0
+Audi,Q7,2017,3840,Electrical System Repairs,2021-01-30,1,0
+Nissan,Altima,2015,4699,Transmission Diagnostics/Repair/Replacement,2019-04-01,1,0
+Ford,Focus,2011,6616,Multiple Unscheduled Repairs,2019-06-28,1,1
+BMW,5 Series,2020,2217,Cooling System Repairs,2020-10-05,1,0
+Chevrolet,Traverse,2019,2742,Transmission Diagnostics/Repair/Replacement,2020-05-09,1,1
+Honda,Accord,2012,6171,Wear-and-Tear Replacements,2019-06-24,1,1
+Toyota,Prius,2012,6335,Cooling System Repairs,2023-06-30,0,1
+Nissan,Rogue,2014,5195,Cooling System Repairs,2018-12-21,1,1
+Honda,Accord,2013,5677,Wear-and-Tear Replacements,2019-12-23,1,0
+Chevrolet,Silverado,2020,2200,Multiple Unscheduled Repairs,2023-01-21,0,0
+Hyundai,Santa Fe,2010,7309,Suspension System Repairs,2016-02-28,0,1
+Volkswagen,Tiguan,2017,3898,Multiple Unscheduled Repairs,2019-04-18,1,0
+Nissan,Altima,2013,5970,Brake System Repairs,2022-01-29,0,0
+Chevrolet,Traverse,2018,3410,Electrical System Repairs,2023-06-26,0,0
+Mercedes-Benz,GLE,2012,6319,Multiple Unscheduled Repairs,2012-11-06,1,0
+Audi,Q7,2010,7269,Routine Maintenance Services,2017-09-12,1,0
+Chevrolet,Silverado,2010,7435,Transmission Diagnostics/Repair/Replacement,2015-07-04,0,1
+Ford,Explorer,2013,5936,Transmission Diagnostics/Repair/Replacement,2020-02-22,0,0
+Hyundai,Santa Fe,2017,3836,Suspension System Repairs,2020-05-16,0,0
+Honda,Pilot,2010,7284,Cooling System Repairs,2012-09-24,0,1
+BMW,5 Series,2011,6854,Routine Maintenance Services,2013-05-19,0,1
+Toyota,Rav4,2018,3047,Suspension System Repairs,2021-12-16,0,1
+Toyota,Camry,2015,4944,Multiple Unscheduled Repairs,2023-03-07,0,0
+Honda,CR-V,2014,5228,Transmission Diagnostics/Repair/Replacement,2023-11-11,0,1
+Nissan,Pathfinder,2012,6194,Multiple Unscheduled Repairs,2014-03-29,1,1
+Audi,A6,2020,2429,Brake System Repairs,2022-04-17,1,0
+BMW,5 Series,2016,4024,Suspension System Repairs,2018-03-25,1,1
+Chevrolet,Silverado,2018,3460,Suspension System Repairs,2020-06-27,1,0
+Audi,A4,2017,3747,Multiple Unscheduled Repairs,2021-12-28,1,1
+Audi,Q5,2018,3451,Cooling System Repairs,2019-02-25,0,1
+Toyota,Camry,2020,2092,Routine Maintenance Services,2023-11-19,0,1
+Mercedes-Benz,GLE,2013,5507,Cooling System Repairs,2021-12-01,0,0
+Volkswagen,Jetta,2017,3687,Cooling System Repairs,2022-04-26,1,0
+Honda,Pilot,2014,5017,Transmission Diagnostics/Repair/Replacement,2017-12-11,0,1
+Hyundai,Elantra,2018,3389,Suspension System Repairs,2023-09-18,0,0
+Toyota,Camry,2013,5516,Routine Maintenance Services,2017-10-19,1,0
+Mercedes-Benz,E-Class,2010,7401,Engine Diagnostics/Repair/Replacement,2018-04-07,0,1
+Chevrolet,Traverse,2014,5250,Electrical System Repairs,2016-04-03,0,0
+BMW,5 Series,2013,5849,Wear-and-Tear Replacements,2018-04-26,0,1
+Nissan,Rogue,2019,2959,Suspension System Repairs,2021-04-12,1,0
